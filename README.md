@@ -128,9 +128,9 @@ Com microsserviços independentes, balanceamento global e autenticação entre s
 ---
 
 📌 **Autores:**  
-- José Luiz  
-- Leandro Duarte  
-- Rafael Maruca  
+- José Luiz      | 3225002
+- Leandro Duarte | 6325072
+- Rafael Maruca  | 6322006
 
 📅 **Data:** Outubro / 2025  
 📚 **Disciplina:** Arquitetura de Soluções em Cloud  
